@@ -1,5 +1,8 @@
 # Environmental-Data-Analysis
-Spatio-temporal data analysis of terrestrial CO2 fluxes from the JenaCarboScope model and A.D.Friend's miami extended model in Python. The model was ran separately, but this is the data analysis part. The analysis is tructured in 3 different stages: 1) JenaCarboScope; 2) Miami; 3) Model Intercomparison
+Spatio-temporal data analysis of terrestrial CO2 fluxes from the JenaCarboScope model and A.D.Friend's miami extended model in Python. The model was ran separately, but this is the data analysis part. The analysis is tructured in 3 different stages: 1) JenaCarboScope; 2) Miami; 3) Intercomparison.
+
+The analysis involved data pre-processing from the Fortran output to a more readable format using the code from 'make_netcdf.py'. The two models work on different resolutions hence 'grid_matching.py' was developed.
+
 
 ### Vegetation Seasonal Cycle Analysis
 
