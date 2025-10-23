@@ -27,8 +27,9 @@ This adjustment does not affect the results.
   <img src="MIAMI.png" width="800" />
 </div>
 
----
 [Watch the Jena simulation](download.mp4)
+---
+
 
 ### Seasonal-Trend Decomposition
 
