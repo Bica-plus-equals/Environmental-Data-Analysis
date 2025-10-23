@@ -23,6 +23,7 @@ The **blue regions** show carbon uptake, while the **red** ones show carbon emis
 It was found that the model had extreme outliers, so we capped the first and last 2%.  
 This adjustment does not affect the results.
 
+[Watch the MIAMI simulation](download.mp4)
 <div align="center">
   <img src="MIAMI.png" width="800" />
 </div>
