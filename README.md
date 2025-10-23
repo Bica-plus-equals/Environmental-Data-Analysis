@@ -11,7 +11,7 @@ This analysis is based on results from the **Jena Model**.
 
 <div align="center">
 
-<img src="Vegetation.png" width="600" />
+<img src="Vegetation.png" width="1000" />
 
 </div>
 
@@ -24,7 +24,7 @@ It was found that the model had extreme outliers, so we capped the first and las
 This adjustment does not affect the results.
 
 <div align="center">
-  <img src="MIAMI.png" width="600" />
+  <img src="MIAMI.png" width="800" />
 </div>
 
 ---
@@ -39,7 +39,7 @@ This allows us to see more clearly how each model captures the **seasonality**, 
 and **anomalies** — particularly useful when comparing models of global CO₂ fluxes.
 
 <div align="center">
-  <img src="STL.png" width="600" />
+  <img src="STL.png" width="800" />
 </div>
 
 ---
@@ -55,6 +55,6 @@ and **deciduous forests (Eastern North America)**.
 This is only an excerpt; the full analysis was done on over **12 regions**.
 
 <div align="center">
-  <img src="Regional.png" width="600" />
+  <img src="Regional.png" width='1000' />
 </div>
 
